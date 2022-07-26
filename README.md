@@ -17,6 +17,6 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/181098316-54fcefae-769a-41d1-86b3-2562fd2d2a5a.png" height="100%" width="100%" alt="key vault"/>
+<img src="https://user-images.githubusercontent.com/104326475/181098316-54fcefae-769a-41d1-86b3-2562fd2d2a5a.png" height="50%" width="50%" alt="key vault"/>
 
 <p/>
