@@ -13,3 +13,10 @@
 - This extends the virtual network onto a particular service, in this case, it is the key vault. 
 - Navigate to the virtual network > service endpoints > Microsoft.KeyVault > Select the subnet
 - This is a more secure communication between the Azure Keyvault and the Azure network.
+
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/181098316-54fcefae-769a-41d1-86b3-2562fd2d2a5a.png" height="100%" width="100%" alt="key vault"/>
+
+<p/>
