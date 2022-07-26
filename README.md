@@ -39,4 +39,10 @@
 - You can also have customer keys and they can be stored on a Azure Key Vault
 - Encryption and decryption is done in the background.
 
-# Create en encryption key 
+# Azure Disk Encryption
+- ADE helps protect and safegaurd your data to meet your organizational security and compliance commitments
+- ADE provides VOLUME ENCRYPTION for the OS and data disks of Azure VMs.
+
+# Server Side Encryption
+- Aka encryption at-rest or Azure Storage encryption automatically encrypted data stored on Azure managed disks (OS and data disks) when persisting it to the cloud
+- This happens in the DATA CENTERS.
